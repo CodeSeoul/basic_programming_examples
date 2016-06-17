@@ -75,3 +75,15 @@ else:
 
 def printStuff(input):
     print("I was told to print: " + input)
+# This is a function definition. Remember how "print" is a function? We can define our own as needed. Function definitions start with
+# the keyword "def" followed by the function name, followed by a listing of the inputs (parameters) within parenthesis. The definition
+# line must end with a colon, just like loops and conditions. The inputs list is simply a set of names for the values the function accepts.
+# You can then use these values as you please within the function. In this case, we're simply printing the input within a larger print
+# statement. Alone, this definition will have no output or product. It simply defines a new thing that's capable of being done without
+# actually doing it.
+
+printStuff("i herd u lyk mudkips")
+# This is an example of executing the above function. This line will cause the output to be the following:
+# I was told to print: i herd u lyk mudkips
+
+# This concludes basic constructs. GLHF
