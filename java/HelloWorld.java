@@ -45,20 +45,21 @@ public class HelloWorld {
       addWithoutOutput(x, y);
   }
 
-  private int addWithOutput(int a, int b) {
+  private static int addWithOutput(int a, int b) {
   /*
   This an example of a function declaration. This first line is called a function signature.
   "private" represents the visibility of the function. Other keywords you can place here are "protected" and "public." Private means that only the class this function is defined inside can access it. Protected means any classes that inherit from this class can use it. We'll cover what that means much later. Public means that anything anywhere can use this function.
   "int" is where you define the type of data this function spits out. In this case, we're going to produce an integer as output.
   addWithOutput is the function name.
   (int a, int b) is our parameter listing. This defines the data that the function can take as inputs. It requires the data type and a name for the data that you can use within the function. In this case, whatever value is provided as the first parameter will be called "a," and the second parameter's data will be referred to as "b." This is independent of whatever the data was called before it was given to the function.
+  // Ignore static for now :^)
   */
 
     return a + b;
     // Return is a keyword that ends the function and passes whatever value after it as output. In this case, we're outputting the sum of a and b.
   }
 
-  private void addWithoutOutput(int a, int b) {
+  private static void addWithoutOutput(int a, int b) {
     // void is not a data type. Void means that this function produces no output. This specific function effectively does nothing. This would be useful if we need to internally modify some data but don't need to provide any output.
 
     int useless = a + b;
