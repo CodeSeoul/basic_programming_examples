@@ -8,7 +8,7 @@ effectively means true or false.
 
 public class Conditions {
   public static void main(String[] args) {
-    boolean shouldRun = True;
+    boolean shouldRun = true;
     // This is the boolean data type. It only stores True or False.
 
     if(shouldRun) {
@@ -94,6 +94,6 @@ public class Conditions {
   }
 
   private static boolean returnFalse() {
-    return False;
+    return false;
   }
 }
