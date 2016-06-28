@@ -14,6 +14,18 @@ Java is also object-oriented. Object-oriented programming is a way of thinking a
 
 For these reason, Java is a language of choice among many larger, "enterprise" businesses. It's a language of choice taught in many traditional universities and is generally considered a solid foundation to get new developers started.
 
+## Advantages:
+* Performance due to being a compiled language
+* Portability due to running in a virtual machine
+* Object-oriented, making it appropriate for larger applications
+* Huge standard library that handles a lot of work for you
+
+##Disadvantages:
+* Long startup time and a good bit of overhead due to the need to boot and run a virtual machine
+* Huge standard library that sometimes may be difficult to find what you need
+* Garbage collection can cause issues if not configured properly
+* Slightly slower development pipeline, as you need to compile your source before running it
+
 # Example Order
 
 * HelloWorld
