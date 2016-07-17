@@ -25,6 +25,11 @@ class Vehicle:
 
 
 vehicle1 = Vehicle() # Here, we create a new vehicle object
+# But where did Vehicle() come from? The __init__ function above
+# takes on the name of the class it's being defined on.
+# Again, this is called a constructor and returns an object instance
+# of the class it's defined on.
+
 print 'vehicle1.wheels: ' + str(vehicle1.wheels)
 # What do you think will be printed out here?
 vehicle1.drive()
