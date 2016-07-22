@@ -28,5 +28,24 @@ public class Inheritance {
     teslaRoadster.move(); // This should print out "Gotta go faaaast!"
     System.out.println("Tesla position after moving: " +
       Integer.toString(teslaRoadster.getPosition()));
+
+
+    // Here's a bonus. You ready for this?
+    Vehicle definitelyNotACar = new Car(777);
+    /*
+    But I thought the type you declare a variable as has to match what you're
+    storing in it!
+    It does.
+    This is an example of a concept called "polymorphism," which literally means
+    "many shapes." Since a Car _must_ do everything a Vehicle can do, Java lets
+    us treat cars as vehicles. This would be useful if you wanted to store
+    a collection of many vehicles of different types. You could declare the
+    collection to store Vehicles in it, and you could then populate it with
+    cars, trucks, ufos, and anything else that you define that might inherit
+    from vehicle.
+    */
+    System.out.println("Definitely not a car...");
+    definitelyNotACar.move();
+    System.out.println("...certainly acts like a car.");
   }
 }
