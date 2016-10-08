@@ -13,14 +13,14 @@ pretty straightforward, regardless of your platform.
 The Java executables _should_ set themselves up in your environment path
 (more on pathing in the theory section). If not, you should use your search
 engine of choice to find out how to add Java to the path on your system,
-e.g. "add Java to Windows path."
+e.g. "add Java to Windows path" or "add Java to Mac path" as appropriate.
 
 Once you have the JDK and your path setup, you should try to compile and
 run this file. You can compile the file by navigating to this directory
 (see command line, if that's not your jam) and entering
 "javac HelloWorld.java". After doing so, you'll see a file
 HelloWorld.class. This is Java bytecode that you can then run using the
-Java virtual machine. Now, run "java HelloWorld." Maaaaaagic :D
+Java virtual machine. Now, run "java HelloWorld". Maaaaaagic :D
 
 We use HelloWorld in the second command because our class below is called
 HelloWorld. More on that later.
