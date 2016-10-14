@@ -70,6 +70,30 @@ public class DataStructures {
     https://en.wikipedia.org/wiki/Array_data_type
     */
 
+    for(int i : arr) {
+      System.out.println("for in i: " + Integer.toString(i));
+    }
+    /*
+    Remember for loops? This is another kind of for loop.
+    When you have a collection data type, like an array, you can use
+    this style of for loop to iterate through it. This is just a
+    slightly more readable and shorter version. If you need the
+    index of values while iterating through them, you should
+    use a traditional for loop.
+    */
+
+    System.out.println("arr length: " + Integer.toString(arr.length));
+    /*
+    Simple arrays have a length property, which could be used
+    in a more traditional for loop.
+    */
+
+    System.out.println("arrlist length: " + Integer.toString(arrlist.size()));
+    /*
+    ArrayLists have a method called size(), which will give you
+    a similar value.
+    */
+
     HashMap<String, Integer> hmap = new HashMap<String, Integer>();
     /*
     Maps are another type of data structure. Where an array is simply a

@@ -28,11 +28,51 @@ For these reason, Java is a language of choice among many larger, "enterprise" b
 
 # Example Order
 
+Items labeled WiP are planned but do not yet finished examples.
+
+## Java Programming Basics
 * HelloWorld
 * Variables
 * Methods
 * Conditions
 * Loops
+* BasicDataStructures
 * Classes
 * Inheritance
-* DataStructures
+* Scope (WiP)
+* Overloading (WiP)
+* Interfaces (WiP)
+* Abstraction (WiP)
+* Static (WiP)
+
+## Real-World Applications
+* Maven (WiP)
+* Databases (WiP)
+* JSP (WiP)
+* Servlets (WiP)
+
+## Data Structures
+* Stack (WiP)
+* Queue (WiP)
+* LinkedList (WiP)
+* Graph (WiP)
+* Tree (WiP)
+* HashMap (WiP)
+
+## Basic Algorithms
+* BubbleSort (WiP)
+* InsertionSort (WiP)
+* MergeSort (WiP)
+* QuickSort (WiP)
+* BinarySearch (WiP)
+* BreadthFirstSearch (WiP)
+* DepthFirstSearch (WiP)
+
+## Design Patterns
+* Wrapper (WiP)
+* Factory (WiP)
+* Command (WiP)
+* Singleton (WiP)
+* Builder (WiP)
+* Decorator (WiP)
+* Facade (WiP)
