@@ -28,7 +28,7 @@ For these reason, Java is a language of choice among many larger, "enterprise" b
 
 # Example Order
 
-Items labeled WiP are planned but do not yet finished examples.
+Items labeled WiP (work in progress) are incomplete examples.
 
 ## Java Programming Basics
 * HelloWorld
