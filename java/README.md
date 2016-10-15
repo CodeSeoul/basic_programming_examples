@@ -40,6 +40,7 @@ Items labeled WiP (work in progress) are incomplete examples.
 * Classes
 * Inheritance
 * Scope (WiP)
+* Overriding (WiP)
 * Overloading (WiP)
 * Interfaces (WiP)
 * Abstraction (WiP)
