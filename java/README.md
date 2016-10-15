@@ -58,6 +58,7 @@ Items labeled WiP (work in progress) are incomplete examples.
 * Graph (WiP)
 * Tree (WiP)
 * HashMap (WiP)
+* Set (WiP)
 
 ## Basic Algorithms
 * BubbleSort (WiP)
