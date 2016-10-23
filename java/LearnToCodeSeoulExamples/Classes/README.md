@@ -11,7 +11,7 @@ In this session, we covered the following:
 If you want more practice, here's a challenge:
 
 Create classes for three kinds of food
-  Food - what properties and methods would be shared by all foods?
-    Meat - what might be specific to meat?
-    ???? - come up with something!
-    ????
+* Food - what properties and methods would be shared by all foods?
+  * Meat - what might be specific to meat?
+  * ???? - come up with something!
+  * ????
