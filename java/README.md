@@ -42,7 +42,7 @@ Items labeled WiP (work in progress) are incomplete examples.
 * Scope (WiP)
 * Overriding
 * Overloading (WiP)
-* Interfaces (WiP)
+* Interfaces (and Polymorphism)
 * Abstraction (WiP)
 * Static (WiP)
 
