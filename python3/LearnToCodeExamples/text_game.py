@@ -121,7 +121,7 @@ class Dragon(Monster):
             'damage': 10
         })
         """
-            TODO: create an item called "Helm of Glory" with 30 armor
+            TODO: create an item called "Helm of Glory" with 5 armor
             and add it to the Dragon's loot (Hint, very similar to the
             Sword of Dragon Slaying)
         """
@@ -145,7 +145,7 @@ class Boar(Monster):
 """
     TODO: Extra goal!
     Create a new monster called a Demon. It should inherit from Monster.
-    A Demon should have 80 health, 5 armor, and do 15 damage.
+    A Demon should have 80 health, 5 armor, and do 20 damage.
     A Demon should carry one item as loot. This item should be called
     the Heavenly Hammer of Hammertime and should provide 15 damage.
     Make sure the player fights the Demon.
