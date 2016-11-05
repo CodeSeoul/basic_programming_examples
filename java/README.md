@@ -43,8 +43,7 @@ Items labeled WiP (work in progress) are incomplete examples.
 * Overriding
 * Overloading (WiP)
 * Interfaces (and Polymorphism)
-* Abstraction (WiP)
-* Static (WiP)
+* AbstractStatic (Abstraction and Statics)
 
 ## Real-World Applications
 * Maven (WiP)
